@@ -2,10 +2,11 @@ package arrayofmultiples_task2;
 import java.util.Scanner; //Needed for Scanner class
 import java.util.Arrays; //Needed for toString function 
 
-/**
+/** 
+* TASK 2 CODE
 * ID: 310 | Name: Alia AlGhamdi
- * @author 82Lul
- */
+* @author 82Lul
+*/
 
 
 public class ArrayOfMultiples_TASK2 {
